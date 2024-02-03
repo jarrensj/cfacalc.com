@@ -11,7 +11,7 @@ export default function Home() {
       </p>
       <Calculator />
       <p className="text-sm mt-8">
-        Disclaimer: We are not affiliated with Chick-fil-A. This is a personal project. Right now we&apos;re only using the data from the Chick-fil-A app and our local Chick-fil-A location. We are not responsible for any discrepancies in the data. Please use this tool at your own risk.
+        Disclaimer: We are not affiliated with, endorsed, or sponsored by Chick-fil-A. All data utilized by our calculator is derived from publicly available information and personal analysis based on the Chick-fil-A app and our local Chick-fil-A location. We are not responsible for any discrepancies in the data. All trademarks and copyrights related to Chick-fil-A are the property of their respective owners. Please use this tool at your own risk.
       </p>
       <footer>
         <p className="text-sm mt-8">
