@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Calculator from "../components/Calculator";
 
 export default function Home() {
   return (
@@ -7,6 +8,7 @@ export default function Home() {
       <p className="text-xl mb-8">
         A calculator to see what&apos;s the most optimal way to spend your points.
       </p>
+      <Calculator />
     </main>
   );
 }
