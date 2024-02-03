@@ -18,5 +18,20 @@
     "item": "hash browns",
     "price": 1.89,
     "points": 300
+  },
+  {
+    "item": "2 ct chicken strips",
+    "price": 4.19,
+    "points": 600
+  },
+  {
+    "item": "3 ct chicken strips",
+    "price": 5.99,
+    "points": 900
+  },
+  {
+    "item": "4 ct chicken strips",
+    "price": 7.85,
+    "points": 1200
   }
 ]
