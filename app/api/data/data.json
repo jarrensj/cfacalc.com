@@ -33,5 +33,15 @@
     "item": "4 ct chicken strips",
     "price": 7.85,
     "points": 1200
+  },
+  {
+    "item": "deluxe sandiwch",
+    "price": 6.55,
+    "points": 1000
+  },
+  {
+    "item": "spicy deluxe sandiwch",
+    "price": 6.85,
+    "points": 1000
   }
 ]
