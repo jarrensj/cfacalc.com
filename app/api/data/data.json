@@ -1,0 +1,17 @@
+[ 
+  {
+    "item": "small waffle fries",
+    "price": 2.59,
+    "points": 300
+  },
+  {
+    "item": "medium waffle fries",
+    "price": 2.99,
+    "points": 400
+  },
+  {
+    "item": "large waffle fries",
+    "price": 3.39,
+    "points": 500
+  }
+]
