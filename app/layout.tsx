@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "cfa calc",
-  description: "cfa calc",
+  description: "A calculator to see what's the most optimal way to spend your points.",
 };
 
 export default function RootLayout({
