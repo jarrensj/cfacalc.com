@@ -17,7 +17,7 @@ export default function Home() {
       <footer>
         <p className="text-sm mt-8">
           made by <Link href="https://jarrensj.com" className="text-blue-500 hover:underline" target="_blank">
-            jarrensj 🍣
+            kwaji 🍣
           </Link>
         </p>
       </footer>
