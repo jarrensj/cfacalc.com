@@ -13,5 +13,10 @@
     "item": "large waffle fries",
     "price": 3.39,
     "points": 500
+  },
+  {
+    "item": "hash browns",
+    "price": 1.89,
+    "points": 300
   }
 ]
