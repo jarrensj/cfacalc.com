@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import Calculator from "../components/Calculator";
 
 export default function Home() {
@@ -9,6 +10,9 @@ export default function Home() {
         A calculator to see what&apos;s the most optimal way to spend your points.
       </p>
       <Calculator />
+      <p className="text-sm mt-8">
+        Disclaimer: We are not affiliated with Chick-fil-A. This is a personal project. Right now we&apos;re only using the data from the Chick-fil-A app and our local Chick-fil-A location. We are not responsible for any discrepancies in the data. Please use this tool at your own risk.
+      </p>
     </main>
   );
 }
