@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import Calculator from "../components/Calculator";
+import FriesClick from "@/components/FriesClick";
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
           </Link>
         </p>
       </footer>
+      <FriesClick />
     </main>
   );
 }
