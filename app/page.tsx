@@ -12,7 +12,7 @@ export default function Home() {
         </Link>
       </h1>
       <p className="text-xl mb-8">
-        A calculator to see what&apos;s the most optimal way to spend your points.
+        A calculator to see what&apos;s the most optimal way to spend your Chick-fil-A reward points.
       </p>
       <Calculator />
       <p className="text-sm mt-8">
